@@ -1,0 +1,19 @@
+.jumbotron{
+    text-align: center;
+    padding: 25px;
+    background: linear-gradient(to right, #5d4755, #9f9393);
+}
+.container h2{
+    color: darkred;
+    text-align: center;
+}
+.column-left{ float: left; width: 32%; }
+.column-right{ float: right; width: 32%; }
+.column-center{ float:left; width: 32%; }
+
+.greyline{
+    width:2%;
+    float:left;
+    background-color: #5d4755;
+    height: 100%;
+}
